@@ -1,0 +1,15 @@
+ToHTMLStream = S0,
+
+S0 = (toHTMLStream_EXIT671 -> S1),
+
+S1 = (setOutputFormat_EXIT596 -> S1
+		| startDocumentInternal_EXIT692 -> S1
+		| endDocument_EXIT771 -> S1
+		| startElement_EXIT883 -> S1
+		| startElement_EXIT916 -> S1
+		| endElement_EXIT1031 -> S1
+		| endElement_EXIT1047 -> S1
+		| characters_EXIT1564 -> S1
+		| closeStartTag_EXIT1826 -> S1).
+		
+||MTS_ToHTMLStream = (ToHTMLStream).
