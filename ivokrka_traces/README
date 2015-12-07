@@ -1,0 +1,50 @@
+=========================================
+==== FULL TRACES (DTRACE, INV FILES) ====
+
+There is a directory for each of the 9 data structures, each of which contains
+trace (dtrace.gz) and invariant (inv.gz) files. Each directory also contains a
+file args.txt that describes the arguments necessary for MTS Generator to parse
+the traces.
+
+MTS Generator takes the following parameters:
+dtracepath invpath package class outpath
+
+And args.txt defines the first 4 parameters (outpath can be any valid path). It
+first contains line pairs where the first line is dtracepath and the second is
+invpath, and each line pair would be a separate run of MTS Generator. The final
+line of args.txt defines "package (space) class", which applies to all preceding
+dtrace and inv pairs.
+
+<-- BEGIN EXAMPLE args.txt -->
+a.dtrace.gz
+c.inv.gz
+
+b.dtrace.gz
+d.inv.gz
+
+some.package SomeClass
+<-- END EXAMPLE args.txt -->
+
+The above example args.txt suggests two MTS Generator runs:
+
+java MTSGenerator2.Generator_app a.dtrace.gz c.inv.gz some.package SomeClass
+(and)
+java MTSGenerator2.Generator_app b.dtrace.gz d.inv.gz some.package SomeClass
+
+
+=========================
+==== TRACE SUMMARIES ====
+
+Each of the 9 data structure directories also contains a single plaintext file
+traces.txt that lists all traces from the dtrace.gz files in that directory in a
+flat format and excluding data information. The file defines multiple
+invocations of the data structure class, and each line follows this format:
+invocationidentifier /// programexitpoint
+
+
+===================
+==== MORE INFO ====
+
+Find out more about MTS Generator and the related model inference comparison
+work here:
+http://softarch.usc.edu/wiki/doku.php?id=inference:start

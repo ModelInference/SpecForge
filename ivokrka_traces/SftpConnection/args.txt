@@ -1,0 +1,4 @@
+FTP2.dtrace.gz
+SftpConnection.inv.gz
+
+net.sf.jftp.net.wrappers SftpConnection

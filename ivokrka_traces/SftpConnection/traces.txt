@@ -1,0 +1,70 @@
+SftpConnection216321218 /// net.sf.jftp.net.wrappers.SftpConnection.SftpConnection(com.sshtools.j2ssh.configuration.SshConnectionProperties, java.lang.String):::EXIT99
+SftpConnection216321218 /// net.sf.jftp.net.wrappers.SftpConnection.setConnectionListeners(java.util.Vector):::EXIT989
+SftpConnection216321218 /// net.sf.jftp.net.wrappers.SftpConnection.login(java.lang.String, java.lang.String):::EXIT1025;condition="return == true"
+SftpConnection216321218 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection216321218 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection216321218 /// net.sf.jftp.net.wrappers.SftpConnection.download(java.lang.String):::EXIT636
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.SftpConnection(com.sshtools.j2ssh.configuration.SshConnectionProperties, java.lang.String):::EXIT99
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.login(java.lang.String, java.lang.String):::EXIT1025;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.addConnectionListener(net.sf.jftp.net.ConnectionListener):::EXIT984
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.addConnectionListener(net.sf.jftp.net.ConnectionListener):::EXIT984
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.getPWD():::EXIT334
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.mkdir(java.lang.String):::EXIT352;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.rename(java.lang.String, java.lang.String):::EXIT961;condition="not(return == true)"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.handleUpload(java.lang.String):::EXIT576
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.getPWD():::EXIT334
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.list():::EXIT364
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.sortLs():::EXIT543
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.sortSize():::EXIT555
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.getPermissions():::EXIT560
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.handleDownload(java.lang.String):::EXIT592
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.getPWD():::EXIT334
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.list():::EXIT364
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.sortLs():::EXIT543
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.sortSize():::EXIT555
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.getPermissions():::EXIT560
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.removeFileOrDir(java.lang.String):::EXIT228
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.removeFileOrDir(java.lang.String):::EXIT228
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.isConnected():::EXIT328;condition="return == true"
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.disconnect():::EXIT324
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.getPWD():::EXIT334
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.list():::EXIT364
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.sortLs():::EXIT549
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.sortSize():::EXIT555
+SftpConnection511194742 /// net.sf.jftp.net.wrappers.SftpConnection.getPermissions():::EXIT560
+SftpConnection551536099 /// net.sf.jftp.net.wrappers.SftpConnection.SftpConnection(com.sshtools.j2ssh.configuration.SshConnectionProperties, java.lang.String):::EXIT99
+SftpConnection551536099 /// net.sf.jftp.net.wrappers.SftpConnection.setConnectionListeners(java.util.Vector):::EXIT989
+SftpConnection551536099 /// net.sf.jftp.net.wrappers.SftpConnection.login(java.lang.String, java.lang.String):::EXIT1025;condition="return == true"
+SftpConnection551536099 /// net.sf.jftp.net.wrappers.SftpConnection.setLocalPath(java.lang.String):::EXIT479;condition="return == true"
+SftpConnection551536099 /// net.sf.jftp.net.wrappers.SftpConnection.chdir(java.lang.String):::EXIT368;condition="return == true"
+SftpConnection551536099 /// net.sf.jftp.net.wrappers.SftpConnection.upload(java.lang.String):::EXIT614
