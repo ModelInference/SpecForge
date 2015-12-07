@@ -1,0 +1,13 @@
+digraph Automaton {
+	rankdir = LR;
+	initial -> 4 [label=""]
+	4 -> 5 [label="hashtable_EXIT"]
+	5 -> 5 [label="get_EXIT"]
+	5 -> 5 [label="clone_EXIT"]
+	5 -> 5 [label="remove_EXIT"]
+	5 -> 5 [label="isEmpty_EXIT"]
+	5 -> 5 [label="put_EXIT"]
+	5 -> dummy_final [label=""]
+	initial [shape=plaintext,label=""];
+	dummy_final [shape=doublecircle,label=""];
+}
