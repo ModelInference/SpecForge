@@ -6,11 +6,13 @@ Tien-Duy B. Le, Xuan-Bach D. Le, David Lo, and Ivan Beschastnikh. [Synergizing S
 ## Dataset
 
 Input FSMs [.7z](https://drive.google.com/file/d/0B4yUCAFGLAe2aEdfcEZjN3dGZWs/view?usp=sharing)
+
 Extracted Temporal Rules [.7z](https://drive.google.com/file/d/0B4yUCAFGLAe2R014UllxN2NlTFk/view?usp=sharing)
+
 Output SpecForge's model [.7z](https://drive.google.com/file/d/0B4yUCAFGLAe2Rlp0Q2ZaajE5STQ/view?usp=sharing)
 
 ## Bibtex
-``
+```
 @inproceedings{le2015synergizing,
   title={Synergizing Specification Miners through Model Fissions and Fusions (T)},
   author={Le, Tien-Duy B and Le, Xuan-Bach D and Lo, David and Beschastnikh, Ivan},
@@ -19,4 +21,4 @@ Output SpecForge's model [.7z](https://drive.google.com/file/d/0B4yUCAFGLAe2Rlp0
   year={2015},
   organization={IEEE Computer Society}
 }
-``
+```
