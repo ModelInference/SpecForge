@@ -13,7 +13,7 @@ Output SpecForge's model [[.7z]](https://drive.google.com/file/d/0B4yUCAFGLAe2Rl
 
 ## Bibtex
 ```
-@inproceedings{le2015synergizing,
+@inproceedings{specforge,
   title={Synergizing Specification Miners through Model Fissions and Fusions (T)},
   author={Le, Tien-Duy B and Le, Xuan-Bach D and Lo, David and Beschastnikh, Ivan},
   booktitle={Proceedings of the 2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
