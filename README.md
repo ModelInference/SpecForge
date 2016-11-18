@@ -9,7 +9,7 @@ Input FSMs [[.7z]](https://drive.google.com/file/d/0B4yUCAFGLAe2aEdfcEZjN3dGZWs/
 
 Extracted Temporal Rules [[.7z]](https://drive.google.com/file/d/0B4yUCAFGLAe2R014UllxN2NlTFk/view?usp=sharing)
 
-Output SpecForge's model [[.7z]](https://drive.google.com/file/d/0B4yUCAFGLAe2Rlp0Q2ZaajE5STQ/view?usp=sharing)
+Output SpecForge's models [[.7z]](https://drive.google.com/file/d/0B4yUCAFGLAe2Rlp0Q2ZaajE5STQ/view?usp=sharing)
 
 ## Bibtex
 ```
